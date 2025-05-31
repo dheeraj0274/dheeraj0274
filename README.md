@@ -26,13 +26,13 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dheeraj0274&show_icons=true&theme=tokyonight" alt="stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=dheeraj0274&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dheeraj-dev&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=dheeraj0274&theme=radical)
 
 
 
@@ -48,9 +48,9 @@
 
 ### 📌 Featured Projects
 Here are a few highlights of what I’ve built:
-- 🚀 [**MedScan**](https://github.com/your-username/medscan): AI-powered scan analyzer for disease prediction.
-- 📝 [**Task Manager**](https://github.com/your-username/task-manager): Collaborate, assign, and track tasks in real time.
-- 🎓 [**College ERP**](https://github.com/your-username/college-erp): Attendance, marks, and student management in one place.
+- 🚀 [**MedScan**](https://github.com/dheeraj0274/medscan): AI-powered scan analyzer for disease prediction.
+- 📝 [**Task Manager**](https://github.com/dheeraj0274/task-manager): Collaborate, assign, and track tasks in real time.
+- 🎓 [**College ERP**](https://github.com/dheeraj024/ERP): Attendance, marks, and student management in one place.
 
 ---
 
