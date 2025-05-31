@@ -30,6 +30,10 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=dheeraj0274&theme=dracula)
+
+
 
 ### 🔥 Most Used Languages
 <p align="center">
