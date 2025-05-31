@@ -32,7 +32,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dheeraj0274&theme=radical&title=Commits)
+![trophy](https://github-profile-trophy.vercel.app/?username=dheeraj-dev&theme=radical)
 
 
 
