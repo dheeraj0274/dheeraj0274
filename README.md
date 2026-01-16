@@ -26,23 +26,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/dheeraj0274?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/dheeraj0274?label=Total%20Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/dheeraj0274?label=Public%20Repos&style=for-the-badge" />
+ 
+  <img src="https://github-readme-stats.zohan.tech/api?username=dheeraj0274&layout=compact&theme=dark" />
 </p>
 
 ---
 
-###Acheivements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheeraj0274&theme=onestar&no-frame=true&row=2&column=4" />
-</p>
----
+
 
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-lt3fr6ngh-dheeraj-yadavs-projects-fe606909.vercel.app/api/top-langs/?username=dheeraj0274&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dheeraj0274&layout=compact&theme=dark" />
 
 </p>
 
