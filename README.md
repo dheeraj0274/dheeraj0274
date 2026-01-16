@@ -36,11 +36,6 @@
 
 ---
 
-### Contribution
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheeraj0274&theme=tokyo-night" />
-</p>
 
 ### 🔥 Most Used Languages
 <p align="center">
