@@ -25,22 +25,20 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj0274&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=dheeraj0274&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+ <img src="https://github-readme-stats-lt3fr6ngh-dheeraj-yadavs-projects-fe606909.vercel.app/api?username=dheeraj0274&show_icons=true&theme=tokyonight" />
+
+ 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheeraj0274&theme=radical" alt="GitHub Trophies" />
-</p>
 
 ---
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj0274&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-lt3fr6ngh-dheeraj-yadavs-projects-fe606909.vercel.app/api/top-langs/?username=dheeraj0274&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
