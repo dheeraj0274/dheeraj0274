@@ -24,10 +24,11 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
- <img src="https://github-readme-stats-lt3fr6ngh-dheeraj-yadavs-projects-fe606909.vercel.app/api?username=dheeraj0274&show_icons=true&theme=tokyonight" />
 
- 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/dheeraj0274?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/dheeraj0274?label=Total%20Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/dheeraj0274?label=Public%20Repos&style=for-the-badge" />
 </p>
 
 ---
