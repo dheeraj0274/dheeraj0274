@@ -8,22 +8,22 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I'm currently pursuing my degree and actively building impactful tech projects.  
-- 🛠️ I build full-stack applications using **React**, **Node.js**, **Express**, and **MongoDB**.  
-- 🤖 I'm diving into **AI**, **ML**, and **Python** to build intelligent tools like **Jarvis**.  
+-  I'm currently pursuing my degree and actively building impactful tech projects.  
+-  I build full-stack applications using **React**, **Node.js**, **Express**, and **MongoDB**.  
+-  I'm diving into **AI**, **ML**, and **Python** to build intelligent tools like **Jarvis**.  
 - 📚 I'm continuously learning **Data Structures in C++** and exploring **DevOps**.  
-- 💬 Ask me about `React`, `Node`, `APIs`, or `AI-related ideas`.  
+-  Ask me about `React`, `Node`, `APIs`, or `AI-related ideas`.  
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,tailwind,vite,firebase,git,github,vercel" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
  
@@ -35,7 +35,7 @@
 
 
 
-### 🔥 Most Used Languages
+###  Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dheeraj0274&layout=compact&theme=dark" />
 
@@ -45,13 +45,13 @@
 
 ### 📌 Featured Projects
 Here are a few highlights of what I’ve built:
-- 🚀 [**MedScan**](https://github.com/dheeraj0274/medscan): AI-powered scan analyzer for disease prediction.  
-- 📝 [**Task Manager**](https://github.com/dheeraj0274/task-manager): Collaborate, assign, and track tasks in real time.  
-- 🎓 [**College ERP**](https://github.com/dheeraj024/ERP): Attendance, marks, and student management in one place.  
+-  [**MedScan**](https://github.com/dheeraj0274/medscan): AI-powered scan analyzer for disease prediction.  
+-  [**Task Manager**](https://github.com/dheeraj0274/task-manager): Collaborate, assign, and track tasks in real time.  
+-  [**College ERP**](https://github.com/dheeraj024/ERP): Attendance, marks, and student management in one place.  
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 <p align="center">
   <a href="mailto:dheerajyadav.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Dheeraj-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335" />
