@@ -27,7 +27,7 @@
 
 <p align="center">
  
-  <img src="https://readme-stats-fast.vercel.app/api?username=dheeraj0274&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj0274&show_icons=true&theme=dark" />
 </p>
 
 ---
