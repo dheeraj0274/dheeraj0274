@@ -27,7 +27,7 @@
 
 <p align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj0274&show_icons=true&theme=dark" />
+ <img src="https://ghstats.dev/api/card?username=dheeraj0274&theme=tokyonight" />
 </p>
 
 ---
