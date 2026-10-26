@@ -44,7 +44,7 @@
 
 ###  Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dheeraj0274&layout=compact&theme=dark" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dheeraj0274&layout=compact&theme=radical" alt="dy0274' Most Used Languages"" />
 
 </p>
 
