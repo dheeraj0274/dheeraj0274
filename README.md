@@ -27,8 +27,9 @@
 
 <p align="center">
  
- <img src="https://github-trophies.vercel.app/?username=dheeraj0274&theme=discord" />
+
  <img src="https://readme-stats-fast.vercel.app/api?username=dheeraj0274&theme=radical&show_icons=true" alt=" Github Stats" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dheeraj0274&layout=compact&theme=radical" alt="dy0274 Most Used Languages" />
 </p>
 
 ---
@@ -43,9 +44,10 @@
 
 
 
-###  Most Used Languages
+###  Trophies
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dheeraj0274&layout=compact&theme=radical" alt="dy0274 Most Used Languages"" />
+ <img src="https://github-trophies.vercel.app/?username=dheeraj0274&theme=discord" />
+ 
 
 </p>
 
