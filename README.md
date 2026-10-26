@@ -27,7 +27,7 @@
 
 <p align="center">
  
- <img src="https://ghstats.dev/api/card?username=dheeraj0274&theme=tokyonight" />
+ <img src="https://github-trophies.vercel.app/?username=dheeraj0274&theme=discord" />
 </p>
 
 ---
